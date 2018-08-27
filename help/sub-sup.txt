@@ -1,0 +1,3 @@
+<!-- sub, sup, -->
+<p>Exemplos de <sub>Formatação</sub></p>
+<p> x<sup>2</sup> e H<sub>2</sub>0</p>

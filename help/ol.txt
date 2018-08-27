@@ -1,0 +1,18 @@
+<nav>
+    <h1>Menu Principal</h1>
+    	<!--lista ordenada type 1 com indice numerico type a alfabetico type A maiusculo type i romanos I romanos maiusculos-->
+    	<!--start aceita apenas numeros-->
+    	<ol type="I" start="5"> 
+    		<li>Home</li>
+    		<li>Especificações</li>
+    		<li>Fotos</li>
+    		<li>Multimídia</li>
+    		<li>Fale conosco</li>	
+    	</ol>
+                	
+</nav>
+
+<ul type="square">
+    <li>Músicas</li>
+    <li>Vídeos</li>
+</ul>
